@@ -1,4 +1,4 @@
-![MasterHead](https://pbxt.replicate.delivery/JkTicRPKxDSAeSEl5nEcam7o4TUi31jOihPXu3qtytyMljFI/_52ef23e7-8707-4433-9603-971173d92374.jpeg)
+![MasterHead](https://pbxt.replicate.delivery/GweTWVRiB8ztfUefoLkZvKjaxhdSCWSCNxjs8hJlze6gfkPcE/output.png)
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">Code is life</h3>
 
