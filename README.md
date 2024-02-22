@@ -28,5 +28,5 @@
 
 <!-- Diğer istatistik ve grafikler -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menasy&show_icons=true&locale=en&layout=compact" alt="menasy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&locale=en" alt="menasy" /></p>
+>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=menasy&" alt="menasy" /></p>
