@@ -16,6 +16,7 @@ a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="http
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menasy&show_icons=true&locale=en&layout=compact" alt="menasy" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menasy" alt="menasy" /></a> </p>
 
 
