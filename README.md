@@ -3,7 +3,7 @@
 <h3 align="center">Code is life</h3>
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mehmyilm?1337Badge=off&UM6P=off" alt="mehmyilm's 42 stats" /></a>
-<h3 align="left">Connect with me: </h3>
+<h3 align="right">Connect with me: </h3>
 <p align="center">
   <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;"><img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" /></a>
   <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
