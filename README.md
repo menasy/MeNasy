@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">Code is life</h3>
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mehmyilm?1337Badge=off&UM6P=off" alt="mehmyilm's 42 stats" /></a>
+<p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/greenbinary/mehmyilm?1337Badge=off&UM6P=off" alt="mehmyilm's 42 stats" style="display: block; margin: auto;" />
+  </a>
+</p>
+
 
  <!-- Profil view -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
