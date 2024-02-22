@@ -4,7 +4,7 @@
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/mehmyilm?1337Badge=off&UM6P=off" alt="mehmyilm's 42 stats" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menasy" alt="menasy" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
