@@ -8,11 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menasy" alt="menasy" /></a> </p>
 
 <h3 align="left">Connect with me: </h3>
-<p align="left" style="background-color: #00FF00;">
-  <a href="mailto:mehmetnasim42@gmail.com"><img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" /></a>
-</p>
-
 <p align="left">
+  <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;"><img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" /></a>
   <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
 </p>
 
