@@ -8,11 +8,10 @@
   </a>
 </p>
 
-
  <!-- Profil view -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
-<h3 align="left">Connect with me: </h3>
-<p align="left">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
+<h3 align="center">Connect with me: </h3>
+<p align="center">
   <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;"><img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" /></a>
   <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
 </p>
