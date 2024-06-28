@@ -26,10 +26,10 @@
   </a>
 </p>
 
-<!-- Language images -->
+<!-- Language images centered -->
 <div align="center">
   <h3 align="left">Languages and Tools:</h3>
-  <p align="left">
+  <p align="center"> <!-- Aligning the language icons to center -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
@@ -53,7 +53,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia" alt="GitHub Trophy" style="vertical-align: middle; margin-left: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
 </p>
-
 
 <!-- GitHub Streak -->
 <p align="center">
