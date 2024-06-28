@@ -53,10 +53,10 @@
 
 <!-- Github Stats and Trophy -->
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
    <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
 </p>
 
 <!-- GitHub Streak -->
