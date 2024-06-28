@@ -24,6 +24,9 @@
   <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
+  <a href="https://www.hackerrank.com/profile/menasy">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank" width="40" height="40" style="margin-left: 10px;" />
+  </a>
 </p>
 
 <!-- Language images centered -->
