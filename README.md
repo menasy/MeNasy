@@ -52,14 +52,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
 </p>
 
-<!-- Most Used Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact" alt="Top Langs" />
-</p>
 
 <!-- GitHub Streak -->
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue" alt="GitHub Streak" />
   </a>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact" alt="Top Langs" />
 </p>
