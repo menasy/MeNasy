@@ -20,7 +20,7 @@
 </p>
 
 <!-- Language images -->
-<div style="text-align: center;">
+<div style="margin: auto; width: 50%; text-align: center;">
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -42,8 +42,6 @@
 </div>
 
 
-
- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menasy" alt="menasy" /></a> </p>
 
 <!-- most use language-->
