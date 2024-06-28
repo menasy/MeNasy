@@ -45,16 +45,9 @@
 <!-- Github Cup -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia)
 
-
 <!-- most use language-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact)
-
 
 <!-- Git devamlılığı-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue)](https://git.io/streak-stats)
 
-<!-- Most usage language-->
-
-
-
-<p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=menasy&" alt="menasy" /></p>
