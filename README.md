@@ -40,15 +40,12 @@
 </p>
 
 <!-- Github Stats -->
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=gradient)
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical)
 
 <!-- Github Cup -->
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia)
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=menasy" alt="menasy" /></a> </p>
 
 <!-- most use language-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menasy&show_icons=true&locale=en&layout=compact" alt="menasy" /></p>
