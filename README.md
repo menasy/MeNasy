@@ -40,7 +40,6 @@
 </p>
 
 <!-- Github Stats -->
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical)
 
 <!-- Github Cup -->
@@ -50,6 +49,12 @@
 <!-- most use language-->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menasy&show_icons=true&locale=en&layout=compact" alt="menasy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&locale=en" alt="menasy" /></p>
+
+<!-- Git devamlılığı-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue)](https://git.io/streak-stats)
+
+<!-- Most usage language-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact)
+
 
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=menasy&" alt="menasy" /></p>
