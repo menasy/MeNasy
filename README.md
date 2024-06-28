@@ -1,22 +1,29 @@
 ![MasterHead](https://pbxt.replicate.delivery/JkTicRPKxDSAeSEl5nEcam7o4TUi31jOihPXu3qtytyMljFI/_52ef23e7-8707-4433-9603-971173d92374.jpeg)
+
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">Code is life</h3>
 
- <!-- 42 Profile -->
+<!-- 42 Profile -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/greenbinary/mehmyilm?1337Badge=off&UM6P=off" alt="mehmyilm's 42 stats" style="display: block; margin: auto;" />
   </a>
 </p>
 
- <!-- Profil view -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" /> </p>
-
- <!-- connect-->
-<h3 align="center">Connect with me: </h3>
+<!-- Profil view -->
 <p align="center">
-  <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;"><img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" /></a>
-  <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" />
+</p>
+
+<!-- Connect -->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;">
+    <img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 <!-- Language images -->
@@ -39,15 +46,20 @@
   </a>
 </p>
 
-<!-- Github Stats -->
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical)
+<!-- Github Stats and Trophy -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia" alt="GitHub Trophy" style="vertical-align: middle; margin-left: 20px;" />
+</p>
 
-<!-- Github Cup -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia)
+<!-- Most Used Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact" alt="Top Langs" />
+</p>
 
-<!-- most use language-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact)
-
-<!-- Git devamlılığı-->
-[![GitHub Streak](https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue)](https://git.io/streak-stats)
-
+<!-- GitHub Streak -->
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue" alt="GitHub Streak" />
+  </a>
+</p>
