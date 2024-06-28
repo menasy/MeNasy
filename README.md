@@ -47,14 +47,14 @@
 
 
 <!-- most use language-->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=menasy&show_icons=true&locale=en&layout=compact" alt="menasy" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact)
 
 
 <!-- Git devamlılığı-->
 [![GitHub Streak](https://streak-stats.demolab.com?user=menasy&theme=github-dark-blue)](https://git.io/streak-stats)
 
 <!-- Most usage language-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=menasy&layout=compact)
+
 
 
 <p><img align="center"src="https://github-readme-streak-stats.herokuapp.com/?user=menasy&" alt="menasy" /></p>
