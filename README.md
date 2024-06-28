@@ -48,8 +48,8 @@
 
 <!-- Github Stats and Trophy -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
   <img src="https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia" alt="GitHub Trophy" style="vertical-align: middle; margin-left: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=menasy&show_icons=true&theme=radical" alt="Github stats 2" style="margin-right: 20px;" />
 </p>
 
 <!-- Most Used Languages -->
