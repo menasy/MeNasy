@@ -28,8 +28,8 @@
 
 <!-- Language images centered -->
 <div align="center">
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="center"> <!-- Aligning the language icons to center -->
+  <h3>Languages and Tools:</h3>
+  <p> <!-- Aligning the language icons to center -->
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a>
