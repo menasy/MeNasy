@@ -48,6 +48,18 @@
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/XML/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" alt="xml" width="40" height="40"/>
+    </a>
+    <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/oop.svg" alt="oop" width="40" height="40"/>
+    </a>
   </p>
 </div>
 
