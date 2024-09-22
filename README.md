@@ -58,7 +58,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="[https://cdn.iconscout.com/icon/premium/png-512-thumb/network-1695685-1437198.png?f=webp&w=512]" alt="network" width="40" height="40"/>
+      <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/network-1695685-1437198.png?f=webp&w=512" alt="network" width="40" height="40"/>
     </a>
     <a href="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" target="_blank" rel="noreferrer">
       <img src="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" alt="oop" width="40" height="40"/>
