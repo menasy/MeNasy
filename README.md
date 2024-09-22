@@ -58,7 +58,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
     </a>
     <a href="#" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="network" width="40" height="40"/>
+      <img src="[https://img.icons8.com/ios-filled/50/000000/network.png](https://media.istockphoto.com/id/1209504194/tr/vekt%C3%B6r/k%C3%BCp-a%C4%9F-ince-%C3%A7izgi-simgesi-blockchain-vekt%C3%B6r-ill%C3%BCstrasyon-beyaz-izole-k%C3%BCp-yap%C4%B1s%C4%B1-anahat-stil.jpg?s=1024x1024&w=is&k=20&c=ikboSIqDGO2NO8ulkQVfEr87kTCb5lbLPfQT1dN7kpg=)" alt="network" width="40" height="40"/>
     </a>
     <a href="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" target="_blank" rel="noreferrer">
       <img src="https://www.shutterstock.com/shutterstock/photos/2032420412/display_1500/stock-vector-oop-object-oriented-programming-acronym-business-concept-background-vector-illustration-2032420412.jpg" alt="oop" width="40" height="40"/>
