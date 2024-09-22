@@ -75,8 +75,6 @@
   </p>
 </div>
 
-
-
 <!-- GitHub Streak -->
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=menasy&theme=algolia" alt="GitHub Trophy" style="vertical-align: middle; margin-left: 20px;" />
