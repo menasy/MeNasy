@@ -57,7 +57,7 @@
     <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
     </a>
-    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer">
+    <a href="[https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer](https://www.shutterstock.com/tr/image-vector/oop-object-oriented-programming-acronym-business-2032420412)">
       <img src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/oop.svg" alt="oop" width="40" height="40"/>
     </a>
   </p>
