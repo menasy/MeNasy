@@ -21,7 +21,7 @@
   <a href="mailto:mehmetnasim42@gmail.com" style="background-color: #FFFFFF; color: #000000;">
     <img src="https://img.shields.io/badge/E--posta-mehmetnasim42%40gmail.com-red" />
   </a>
-  <a href="https://www.linkedin.com/in/mehmetnasimyilmaz/">
+  <a href="https://www.linkedin.com/in/menasy/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=social&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.hackerrank.com/profile/menasy">
