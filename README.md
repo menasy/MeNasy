@@ -1,14 +1,13 @@
 ![MasterHead](https://pbxt.replicate.delivery/JkTicRPKxDSAeSEl5nEcam7o4TUi31jOihPXu3qtytyMljFI/_52ef23e7-8707-4433-9603-971173d92374.jpeg)
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">Code is life</h3>
-
 <!-- Portfolio Link -->
 <p align="center">
   <a href="https://dbss85n2d9dn9.cloudfront.net/menasyPortfolyo.html">
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
+<h3 align="center">Code is life</h3>
 
 <!-- 42 Profile -->
 <p align="center">
