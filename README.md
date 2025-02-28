@@ -7,8 +7,6 @@
     <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
-<h3 align="center">Code is life</h3>
-
 <!-- 42 Profile -->
 <p align="center">
   <a href="https://github.com/oakoudad/badge42">
