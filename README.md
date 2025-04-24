@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <!-- Portfolio Link -->
 <p align="center">
-  <a href="https://dbss85n2d9dn9.cloudfront.net/menasyPortfolyo.html">
-    <img src="https://menasy.github.io/Portfolio/" alt="Portfolio" />
+  <a href="https://menasy.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 <!-- 42 Profile -->
