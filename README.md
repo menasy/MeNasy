@@ -4,7 +4,7 @@
 <!-- Portfolio Link -->
 <p align="center">
   <a href="https://dbss85n2d9dn9.cloudfront.net/menasyPortfolyo.html">
-    <img src="https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge" alt="Portfolio" />
+    <img src="https://menasy.github.io/Portfolio/" alt="Portfolio" />
   </a>
 </p>
 <!-- 42 Profile -->
