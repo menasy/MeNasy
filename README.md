@@ -1,4 +1,4 @@
-![MasterHead](https://pbxt.replicate.delivery/JkTicRPKxDSAeSEl5nEcam7o4TUi31jOihPXu3qtytyMljFI/_52ef23e7-8707-4433-9603-971173d92374.jpeg)
+![MasterHead](https://github.com/menasy/Project_icons/blob/main/portfolio/menasy-readme.png)
 
 <h1 align="center">Merhaba 👋, Ben Mehmet Nasım Yılmaz</h1>
 
