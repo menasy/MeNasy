@@ -2,7 +2,7 @@
 
 <h1 align="center">Merhaba 👋, Ben Mehmet Nasım Yılmaz</h1>
 
-<h3 align="center">Software Developer · Web Developer · Mobile Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=menasy&label=Profile%20views&color=0e75b6&style=flat" alt="menasy" />
