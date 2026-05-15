@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/menasy/Project_icons/blob/main/portfolio/menasy-readme.png)
 
-<h1 align="center">Merhaba 👋, Ben Mehmet Nasım Yılmaz</h1>
+<h1 align="center">Merhaba 👋, Ben Mehmet Nasim Yılmaz</h1>
 
 <h3 align="center">Full-Stack Developer</h3>
 
