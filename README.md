@@ -71,7 +71,7 @@ Haftalık ortalama 50+ IT destek talebi yönetilerek bilgisayar donanım ve yaz�
 
 ### [StreamApp](https://github.com/menasy/StreamApp)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/StreamApp/StreamAppU%C4%B1Summary.png" alt="StreamApp Dashboard" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/StreamApp/StreamAppU%C4%B1Summary.png" alt="StreamApp Dashboard" width="700"/></p>
 
 .NET 8 + React 18 tabanlı canlı yayın ve medya yönetim platformu. Wowza Streaming Engine entegrasyonu ile HLS, MPEG-DASH, RTMP, RTSP ve WebRTC destekli. JWT/RBAC güvenlik, SignalR bildirimler, VOD arşivleme, Docker Compose ile konteynerize altyapı ve Grafana-Loki-Alloy observability stack.
 
@@ -79,7 +79,7 @@ Haftalık ortalama 50+ IT destek talebi yönetilerek bilgisayar donanım ve yaz�
 
 ### [KobiAI — KOBİ AI Agent](https://github.com/menasy/yzta-kobi-ai-project)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/KobiAi/kobiai-logo.png" alt="KobiAI" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/KobiAi/kobiai-logo.png" alt="KobiAI" width="700"/></p>
 
 KOBİ'lerin ve kooperatiflerin envanter, sipariş ve lojistik süreçlerini tek panelden yönetmesini sağlayan yapay zekâ destekli otomasyon platformu. Google Gemini tabanlı AI ajanı canlı operasyonel veriyi analiz eder; kritik, veri yazma etkisi olan aksiyonlarda insan onayını önceliklendiren "AI Action Co-Pilot" modeliyle çalışır.
 
@@ -87,7 +87,7 @@ KOBİ'lerin ve kooperatiflerin envanter, sipariş ve lojistik süreçlerini tek 
 
 ### [ft_transcendence](https://github.com/menasy/FT_PINPON)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Transcendence/transcendence.png" alt="ft_transcendence" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Transcendence/transcendence.png" alt="ft_transcendence" width="700"/></p>
 
 42 Common Core final projesi — gerçek zamanlı Pong turnuva platformu. Microservices mimari, WebSocket ile multiplayer oyun, JWT + Google OAuth 2FA, Native Web Components SPA, i18n çoklu dil, ELK stack loglama. *Frontend geliştirmeden sorumlu.*
 
@@ -95,7 +95,7 @@ KOBİ'lerin ve kooperatiflerin envanter, sipariş ve lojistik süreçlerini tek 
 
 ### [Restaurant System](https://github.com/menasy/restaurant-order-system)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/restaurant-system/screenshots/customer-01-hero-desktop.webp" alt="Restaurant System" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/restaurant-system/screenshots/customer-01-hero-desktop.webp" alt="Restaurant System" width="700"/></p>
 
 Modern gastronomi işletmeleri için geliştirdiğim uçtan uca dijital sipariş ve restoran yönetim platformu. Müşteri tarafında çok kanallı sipariş, QR masa oturumu ve canlı takip; yönetici tarafında dashboard, dekont onayı, salon planı ve RBAC yetkilendirme sunar. Olay güdümlü asenkron mimari ve beş bağımsız veritabanı şemasıyla yoğun sipariş trafiğinde sıfır veri kaybı garantisi sağlar.
 
@@ -103,7 +103,7 @@ Modern gastronomi işletmeleri için geliştirdiğim uçtan uca dijital sipariş
 
 ### [Marketing Automation](https://github.com/menasy/Marketing-Automation)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Marketing-Automation/Marketing-Automation.png" alt="Marketing Automation" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Marketing-Automation/Marketing-Automation.png" alt="Marketing Automation" width="700"/></p>
 
 Google Ads ve Meta Ads genelinde kampanya anomalilerini %95.45 güven aralığında otomatik tespit eden, kök neden teşhisi yapan kurumsal seviyede bir yapay zekâ ajanı platformu. Sıfır-halüsinasyon garantili bir Python kanıt motorunu tek turlu akıl yürütme ajanıyla (Gemini 2.5 Flash) birleştirerek n8n iş akışları üzerinden Slack'e raporlama yapar.
 
@@ -111,7 +111,7 @@ Google Ads ve Meta Ads genelinde kampanya anomalilerini %95.45 güven aralığı
 
 ### [WebServ](https://github.com/menasy/WebServer)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/WebServer_Images/42WebServer.png" alt="WebServ" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/WebServer_Images/42WebServer.png" alt="WebServ" width="700"/></p>
 
 C++ ile sıfırdan geliştirilen HTTP/1.1 web sunucusu. Nginx benzeri event-driven mimari, non-blocking I/O, CGI desteği (PHP/Python), çoklu port yapılandırması.
 
@@ -119,7 +119,7 @@ C++ ile sıfırdan geliştirilen HTTP/1.1 web sunucusu. Nginx benzeri event-driv
 
 ### [Inception](https://github.com/menasy/Inception_Docker)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/InceptionImages/inceptionArtitech.png" alt="Inception" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/InceptionImages/inceptionArtitech.png" alt="Inception" width="700"/></p>
 
 NGINX, WordPress, MariaDB servislerinin Docker ile konteynerleştirilmiş altyapısı. TLS/SSL, Docker Compose.
 
@@ -127,7 +127,7 @@ NGINX, WordPress, MariaDB servislerinin Docker ile konteynerleştirilmiş altyap
 
 ### [Akıllı Rehber](https://github.com/menasy/Akilli-Rehber)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/akilli-rehber/akilli-rehber.png" alt="Akıllı Rehber" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/akilli-rehber/akilli-rehber.png" alt="Akıllı Rehber" width="700"/></p>
 
 Yaşlılar, görme güçlüğü yaşayanlar ve teknolojiye uzak kullanıcılar için tasarlanmış, Google Play Store'da yayınlanan erişilebilir mobil rehber uygulaması. Sesli arama, büyük arayüz elemanları ve bulanık eşleme ile tek bir komutla kişi arayıp aratabiliyor.
 
@@ -135,7 +135,7 @@ Yaşlılar, görme güçlüğü yaşayanlar ve teknolojiye uzak kullanıcılar i
 
 ### [HesKit MobilApp](https://github.com/menasy/HesKit-MobilApp)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/HesKitFiles/HeskitFigma.png" alt="HesKit MobilApp" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/HesKitFiles/HeskitFigma.png" alt="HesKit MobilApp" width="700"/></p>
 
 Android platformunda Java ile geliştirilmiş finansal yönetim uygulaması. SQLite/Room Database, çalışan yönetimi, mesai takibi, ödeme işlemleri.
 
@@ -143,7 +143,7 @@ Android platformunda Java ile geliştirilmiş finansal yönetim uygulaması. SQL
 
 ### [Merkezi Sağlık Sistemi](https://github.com/menasy/Merkezi-Saglik-Sistemi)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Merkezi-Saglik-Sistemi/merkezi-saglik-sistemi-logo.webp" alt="Merkezi Sağlık Sistemi" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Merkezi-Saglik-Sistemi/merkezi-saglik-sistemi-logo.webp" alt="Merkezi Sağlık Sistemi" width="700"/></p>
 
 Hasta ve doktor akışlarını tek platformda birleştiren, rol tabanlı çalışan Android sağlık uygulaması. Firebase Authentication ve Cloud Firestore ile operasyonel veri yönetimi sağlanır; transaction ile slot çakışması önlenip snapshot listener ile gerçek zamanlı güncellenen randevu, muayene ve reçete yönetimi sunar.
 
@@ -163,7 +163,7 @@ Wolfenstein 3D'den esinlenen raycasting 3D oyun motoru. MiniLibX ile 2D haritala
 
 ### [Blockchain Tabanlı Noter Uygulaması](https://github.com/menasy/BlockChain_NoteryProject)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/BlockChan_Web3/BlockChainNotaryWeb.png" alt="Blockchain Tabanlı Noter Uygulaması" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/BlockChan_Web3/BlockChainNotaryWeb.png" alt="Blockchain Tabanlı Noter Uygulaması" width="700"/></p>
 
 Belgeleri SHA256 ile imzalayıp Ethereum Sepolia test ağında akıllı sözleşmeler aracılığıyla blok zincirine kaydeden Web3 uygulaması.
 
@@ -171,7 +171,7 @@ Belgeleri SHA256 ile imzalayıp Ethereum Sepolia test ağında akıllı sözleş
 
 ### [Philosophers42](https://github.com/menasy/philosophers-42)
 
-<p align="center"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Philo/philo.png" alt="Philosophers42" width="700"/></p>
+<p align="left"><img src="https://raw.githubusercontent.com/menasy/Project_icons/main/Philo/philo.png" alt="Philosophers42" width="700"/></p>
 
 Klasik "Dining Philosophers" problemi — pthread ve mutex mekanizmalarıyla paylaşılan kaynaklar için rekabet eden filozofların deadlock yaşamadan yemek yeme ve düşünme döngülerini yönetme simülasyonu.
 
